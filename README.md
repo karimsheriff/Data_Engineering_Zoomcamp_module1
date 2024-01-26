@@ -8,6 +8,7 @@ Then, we ran PostgreSQL and pg_admin using Docker Compose.
 <br>
 After that, we ingested our data with some transformations into our database on the PostgreSQL server, once using a Docker file with a Python script, and once using a Jupyter notebook.-----> 
 <a href="https://github.com/karimsheriff/Data_Engineering_Zoomcamp_module1/blob/main/Dockerfile">Dockerfile</a>    //  
+<a href="https://github.com/karimsheriff/Data_Engineering_Zoomcamp_module1/blob/main/ingest_data.py">Python_script</a>   //
 <a href="https://github.com/karimsheriff/Data_Engineering_Zoomcamp_module1/blob/main/Docker_Commands">Docker_commands</a>   //
 <a href="https://github.com/karimsheriff/Data_Engineering_Zoomcamp_module1/blob/main/upload_ny_taxi_data.ipynb">jupyter_data_ingest</a>
 <br>
